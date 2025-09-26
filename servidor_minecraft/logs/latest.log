@@ -1768,3 +1768,129 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Sep2025 22:32:47.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> valio riata
 [26Sep2025 22:34:45.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ya desaparecio pe
 [26Sep2025 22:34:46.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> pipipipi
+[26Sep2025 22:38:28.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/56097, l='ServerLevel[world]', x=-2562.58, y=68.00, z=2310.58] died, message: 'Fletcher was slain by Zombie'
+[26Sep2025 22:39:31.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> hasta que etapa se puede hacer que tu dragon saque el aliento para hacer la forja esa?
+[26Sep2025 22:39:40.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> 3 pe
+[26Sep2025 22:39:42.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> croe
+[26Sep2025 22:39:44.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ok
+[26Sep2025 22:40:41.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> NOOOO
+[26Sep2025 22:40:44.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> que paso pe
+[26Sep2025 22:40:47.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> se violaron a un aldeano
+[26Sep2025 22:40:51.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> XDDD
+[26Sep2025 22:40:52.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que bueno que llegue a tiempo
+[26Sep2025 22:46:15.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abi3mael moved wrongly!
+[26Sep2025 22:47:40.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has made the advancement [Tie me to the Mast]
+[26Sep2025 22:53:26.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> se me olvido la flauta y mi dragon no baja pe
+[26Sep2025 22:53:27.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> pipipi
+[26Sep2025 22:53:46.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya no se podra bajar
+[26Sep2025 22:55:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ya bajo el w
+[26Sep2025 22:55:45.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> el tuyo si te quiere
+[26Sep2025 22:55:48.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> XDDD
+[26Sep2025 22:56:07.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 10.81971426016571,0.0,1.6611900011496346
+[26Sep2025 22:56:07.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 12.995355028077483,0.0,1.9952236225503839
+[26Sep2025 22:56:07.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 15.173868342928017,0.0,2.3296981777166366
+[26Sep2025 22:56:07.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 17.3549152441783,0.0,2.6645616364641
+[26Sep2025 22:56:07.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 19.538196768633497,0.0,2.9997681081702012
+[26Sep2025 22:56:07.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 21.72344923075525,0.0,3.3352771173057363
+[26Sep2025 22:56:07.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 23.91044005989852,0.0,3.671052964454134
+[26Sep2025 22:56:07.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 26.098964128755142,0.0,4.007064162729762
+[26Sep2025 22:56:07.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 28.288840515038828,0.0,4.343282940699737
+[26Sep2025 22:56:07.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 30.479909645293446,0.0,4.679684803960072
+[26Sep2025 22:56:07.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 24.024700427536573,0.0,3.688591843793347
+[26Sep2025 22:56:07.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 26.217749422134148,0.0,4.025297614721126
+[26Sep2025 22:56:07.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 28.41161679292145,0.0,4.362129005770271
+[26Sep2025 22:56:07.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 30.34660781395587,0.0,4.659214292675642
+[26Sep2025 22:56:07.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 32.05326989450805,0.0,4.9212435157261325
+[26Sep2025 22:56:07.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 33.55854584955523,0.0,5.152353290456631
+[26Sep2025 22:56:07.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 34.886199241906525,0.0,5.356192111769019
+[26Sep2025 22:56:07.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 36.057189533960354,0.0,5.5359779521664905
+[26Sep2025 22:56:07.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 37.09000297155217,0.0,5.694549063397062
+[26Sep2025 22:56:07.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 38.00094442350792,0.0,5.834408783502454
+[26Sep2025 22:56:07.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 38.80439478413291,0.0,5.957765056635367
+[26Sep2025 22:56:07.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 39.51303800220421,0.0,6.06656528953863
+[26Sep2025 22:56:07.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 40.138061320542874,0.0,6.162527094959273
+[26Sep2025 22:56:07.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 40.68933188731762,0.0,6.247165407340276
+[26Sep2025 22:56:07.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 41.17555252721286,0.0,6.321816398860392
+[26Sep2025 22:56:07.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 41.60439913160053,0.0,6.387658573381145
+[26Sep2025 22:56:07.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 41.98264183667061,0.0,6.445731371308398
+[26Sep2025 22:56:07.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 42.31625190254226,0.0,6.496951579080246
+[26Sep2025 22:56:07.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 42.61049598064119,0.0,6.542127802335017
+[26Sep2025 22:56:07.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 42.87001925752429,0.0,6.581973231245684
+[26Sep2025 22:56:07.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 43.09891878773533,0.0,6.617116899544953
+[26Sep2025 22:56:07.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 43.30080817338148,0.0,6.648113614984936
+[26Sep2025 22:56:07.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 43.478874611521405,0.0,6.67545271800293
+[26Sep2025 22:56:07.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 43.63592920996098,0.0,6.699565806864825
+[26Sep2025 22:56:07.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 44.03404952333676,0.0,6.760690452331801
+[26Sep2025 22:56:07.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 44.644789797286194,0.0,6.854459290724549
+[26Sep2025 22:56:07.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 45.443060876461914,0.0,6.977020307277712
+[26Sep2025 22:56:07.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 46.40673412584738,0.0,7.124976024968419
+[26Sep2025 22:56:07.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 47.51774833430818,0.0,7.194854466095876
+[26Sep2025 22:56:07.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 48.758717268673536,0.0,7.195868749294618
+[26Sep2025 22:56:07.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 50.114306271287205,0.0,7.135250247418867
+[26Sep2025 22:56:07.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 51.570990174095186,0.0,7.021166226888795
+[26Sep2025 22:56:07.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 52.85578537637184,0.0,6.920544120781187
+[26Sep2025 22:56:07.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 53.98897474478008,0.0,6.831795423194308
+[26Sep2025 22:56:07.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 54.988447767716025,0.0,6.75351907192271
+[26Sep2025 22:56:07.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 55.86998297394575,0.0,6.684479330101112
+[26Sep2025 22:56:07.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 56.64749702584004,0.0,6.623586277814525
+[26Sep2025 22:56:07.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 57.33326441961117,0.0,6.5698786056976815
+[26Sep2025 22:56:07.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 57.93811126091714,0.0,6.522508438890668
+[26Sep2025 22:56:07.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 58.47158617494915,0.0,6.48072795176688
+[26Sep2025 22:56:07.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 58.94211104912529,0.0,6.443877562123703
+[26Sep2025 22:56:07.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 59.35711398814874,0.0,6.411375518458385
+[26Sep2025 22:56:07.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 59.723146580367484,0.0,6.382708715945569
+[26Sep2025 22:56:07.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 60.04598732670411,0.0,6.357424596129249
+[26Sep2025 22:56:07.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 60.330732864973015,0.0,6.335124002451266
+[26Sep2025 22:56:07.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 60.5818784297262,0.0,6.315454878827268
+[26Sep2025 22:56:12.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 10.70920658288992,0.0,1.6442161413481244
+[26Sep2025 22:57:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Sep2025 22:57:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Que paso putas<--[HERE]
+[26Sep2025 22:57:59.830] [Ice and Fire Pathfinding Worker #0/WARN] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding Exception
+java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ropelogged, clazz=class java.lang.Boolean, values=[true, false]} as it does not exist in Block{minecraft:air}
+	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at vectorwing.farmersdelight.common.block.TomatoVineBlock.isLadder(TomatoVineBlock.java:157) ~[FarmersDelight-1.20.1-1.2.7.jar%23125!/:1.20.1-1.2.7]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isLadder(AbstractPathJob.java:1469) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isPassable(AbstractPathJob.java:1305) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isFlyable(AbstractPathJob.java:1424) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.getGroundHeight(AbstractPathJob.java:1020) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walk(AbstractPathJob.java:877) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walkCurrentNode(AbstractPathJob.java:667) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.search(AbstractPathJob.java:596) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.PathJobMoveToLocation.search(PathJobMoveToLocation.java:62) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:541) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:46) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Sep2025 22:58:00.401] [Ice and Fire Pathfinding Worker #0/WARN] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding Exception
+java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ropelogged, clazz=class java.lang.Boolean, values=[true, false]} as it does not exist in Block{minecraft:air}
+	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at vectorwing.farmersdelight.common.block.TomatoVineBlock.isLadder(TomatoVineBlock.java:157) ~[FarmersDelight-1.20.1-1.2.7.jar%23125!/:1.20.1-1.2.7]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isLadder(AbstractPathJob.java:1469) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isPassable(AbstractPathJob.java:1305) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isFlyable(AbstractPathJob.java:1424) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.getGroundHeight(AbstractPathJob.java:1020) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walk(AbstractPathJob.java:877) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walkCurrentNode(AbstractPathJob.java:667) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.search(AbstractPathJob.java:596) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.PathJobMoveToLocation.search(PathJobMoveToLocation.java:62) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:541) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:46) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23129!/:2.1.13-1.20.1]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Sep2025 22:58:12.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya nvengo
+[26Sep2025 22:58:14.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> voy a comer
+[26Sep2025 22:58:18.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ya pe
+[26Sep2025 22:58:20.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> proveho
+[26Sep2025 22:58:28.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[26Sep2025 22:58:28.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[26Sep2025 22:58:35.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Sep2025 22:58:36.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Putas<--[HERE]
+[26Sep2025 23:01:54.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved wrongly! 0.484712701250146
+[26Sep2025 23:01:54.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved wrongly! 1.7878779207055686
+[26Sep2025 23:01:54.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved wrongly! 0.6312912602302276
+[26Sep2025 23:01:54.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved wrongly! 1.4985388620068534
+[26Sep2025 23:02:26.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved wrongly! 0.2695483612847056
