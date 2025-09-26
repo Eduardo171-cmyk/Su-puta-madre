@@ -74,6 +74,7 @@
       "minecraft:old_growth_birch_forest": "2025-09-07 00:07:05 +0000",
       "minecraft:deep_dark": "2025-08-31 03:59:37 +0000",
       "minecraft:meadow": "2025-08-26 21:57:48 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-09-26 21:50:02 +0000",
       "minecraft:savanna": "2025-08-26 05:57:21 +0000",
       "minecraft:plains": "2025-08-26 05:43:18 +0000"
     },
@@ -9561,6 +9562,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/small_rocket": {
+    "criteria": {
+      "has_fusee": "2025-09-26 21:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-09-26 21:15:36 +0000"
@@ -9570,6 +9577,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-09-26 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2025-09-26 21:46:41 +0000"
     },
     "done": true
   },
@@ -9603,6 +9616,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/rpg_rocket_standard": {
+    "criteria": {
+      "has_fusee": "2025-09-26 21:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-09-26 21:13:05 +0000"
@@ -9612,6 +9631,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-09-26 21:13:05 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/rpg_rocket_tbg": {
+    "criteria": {
+      "has_fusee": "2025-09-26 21:43:34 +0000"
     },
     "done": true
   },
