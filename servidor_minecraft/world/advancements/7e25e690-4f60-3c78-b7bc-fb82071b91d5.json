@@ -9502,15 +9502,63 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_leggings": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_item": "2025-09-26 22:07:55 +0000"
+      "has_salmon": "2025-09-26 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-09-26 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-09-26 21:12:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-09-26 21:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-26 21:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-26 21:13:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-26 21:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-26 21:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-26 21:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-26 21:15:36 +0000"
     },
     "done": true
   },
@@ -9526,99 +9574,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2025-09-26 22:07:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_leggings": {
-    "criteria": {
-      "has_item": "2025-09-26 21:16:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-09-26 21:15:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2025-09-26 21:16:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-09-26 21:14:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-09-26 21:12:19 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-09-26 21:15:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-09-26 21:15:36 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/small_rocket": {
-    "criteria": {
-      "has_fusee": "2025-09-26 21:43:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-09-26 21:15:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-09-26 22:07:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-09-26 21:12:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2025-09-26 22:07:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/frost_stew": {
-    "criteria": {
-      "has_item": "2025-09-26 21:46:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
-    "criteria": {
-      "has_sea_serpent_scales_red": "2025-09-26 21:16:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-09-26 21:12:19 +0000"
     },
     "done": true
   },
@@ -9634,9 +9592,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-09-26 21:16:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-09-26 21:16:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-09-26 21:16:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
       "has_item": "2025-09-26 21:16:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-09-26 21:16:09 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/small_rocket": {
+    "criteria": {
+      "has_fusee": "2025-09-26 21:43:34 +0000"
     },
     "done": true
   },
@@ -9646,33 +9634,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-09-26 21:13:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_boots": {
-    "criteria": {
-      "has_item": "2025-09-26 22:07:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-09-26 21:13:05 +0000"
-    },
-    "done": true
-  },
   "superbwarfare:recipes/combat/rpg_rocket_tbg": {
     "criteria": {
       "has_fusee": "2025-09-26 21:43:34 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_helmet": {
+  "iceandfire:recipes/food/frost_stew": {
     "criteria": {
-      "has_item": "2025-09-26 21:16:09 +0000"
+      "has_item": "2025-09-26 21:46:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-09-26 22:07:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-09-26 22:07:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-26 22:07:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-09-26 22:07:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-09-26 22:07:55 +0000"
     },
     "done": true
   },
