@@ -1172,3 +1172,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Sep2025 04:51:46.580] [Server thread/INFO] [Jade/]: Syncing config to Emiliosifus (eb2002a4-1884-39b5-9f1d-6d1c80a8d47c)
 [26Sep2025 04:51:47.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliosifus lost connection: Internal Exception: java.lang.IndexOutOfBoundsException: readerIndex(2) + length(1) exceeds writerIndex(2): PooledUnsafeDirectByteBuf(ridx: 2, widx: 2, cap: 2)
 [26Sep2025 04:51:47.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliosifus left the game
+[26Sep2025 04:53:02.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emiliosifus[/127.187.194.5:52225] logged in with entity id 6531 at (128.5, 63.0, 524.5)
+[26Sep2025 04:53:02.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliosifus joined the game
+[26Sep2025 04:53:02.289] [Server thread/INFO] [Jade/]: Syncing config to Emiliosifus (eb2002a4-1884-39b5-9f1d-6d1c80a8d47c)
+[26Sep2025 04:53:03.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliosifus lost connection: Disconnected
+[26Sep2025 04:53:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliosifus left the game
+[26Sep2025 04:53:17.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emiliosifus[/127.187.194.5:50863] logged in with entity id 6676 at (128.5, 63.0, 524.5)
+[26Sep2025 04:53:17.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliosifus joined the game
+[26Sep2025 04:53:17.238] [Server thread/INFO] [Jade/]: Syncing config to Emiliosifus (eb2002a4-1884-39b5-9f1d-6d1c80a8d47c)
+[26Sep2025 04:53:17.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliosifus lost connection: Internal Exception: java.lang.IndexOutOfBoundsException: readerIndex(2) + length(1) exceeds writerIndex(2): PooledUnsafeDirectByteBuf(ridx: 2, widx: 2, cap: 2)
+[26Sep2025 04:53:17.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliosifus left the game
+[26Sep2025 04:54:03.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Sep2025 04:54:03.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Sep2025 04:54:03.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Sep2025 04:54:03.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Sep2025 04:54:04.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Sep2025 04:54:04.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Sep2025 04:54:04.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Sep2025 04:54:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Sep2025 04:54:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Sep2025 04:54:05.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Sep2025 04:54:05.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Sep2025 04:54:05.023] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Sep2025 04:54:05.025] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[26Sep2025 04:54:05.026] [Server thread/INFO] [Framework/]: Finished unloading server configs
