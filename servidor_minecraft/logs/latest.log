@@ -1903,3 +1903,45 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [26Sep2025 23:13:18.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> el techo pe
 [26Sep2025 23:15:54.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to abi3mael: que mamada
 [26Sep2025 23:16:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> que pe
+[26Sep2025 23:18:23.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:48823] logged in with entity id 78923 at (-1388.1202771259343, 70.0, -422.1208120573403)
+[26Sep2025 23:18:23.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[26Sep2025 23:18:23.604] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[26Sep2025 23:24:09.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[26Sep2025 23:24:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[26Sep2025 23:24:33.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.66.26.144:35183] logged in with entity id 80255 at (-2571.762499988079, 68.0, 2330.699999988079)
+[26Sep2025 23:24:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[26Sep2025 23:24:33.703] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[26Sep2025 23:25:46.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y el rexsel porque no se quiere meter?
+[26Sep2025 23:26:20.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -8.860148521324845,0.0,-5.462898119960755
+[26Sep2025 23:26:20.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 16.17479857131184,0.0,10.126024795028115
+[26Sep2025 23:26:20.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 14.707108628267179,0.0,9.201053159961248
+[26Sep2025 23:26:20.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 13.239850412060605,0.0,8.275390449518454
+[26Sep2025 23:26:20.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 11.772972978924827,0.0,7.349118210594497
+[26Sep2025 23:26:20.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 10.30643139645781,0.0,6.422308367549704
+[26Sep2025 23:26:20.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 8.840186034280578,0.0,5.495024357670445
+[26Sep2025 23:27:07.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -8.798640680504832,0.0,-5.56216183887318
+[26Sep2025 23:27:07.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -10.265079224188412,0.0,-6.489191868029138
+[26Sep2025 23:27:07.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -8.79862881860845,0.0,-5.562184932008677
+[26Sep2025 23:27:07.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -10.265066117188326,0.0,-6.4892173851746975
+[26Sep2025 23:27:07.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 13.197940229603773,0.0,8.34328323522027
+[26Sep2025 23:27:07.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 13.197940229603773,0.0,8.34328323522027
+[26Sep2025 23:27:07.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 11.731492896848977,0.0,7.416266493652756
+[26Sep2025 23:27:07.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 10.265046916323627,0.0,6.489247570665611
+[26Sep2025 23:27:07.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 8.798602128465063,0.0,5.562226723666527
+[26Sep2025 23:27:13.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -8.61941111046417,0.0,-5.836057148554119
+[26Sep2025 23:27:13.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -10.055977803358473,0.0,-6.808736133560615
+[26Sep2025 23:27:13.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -11.492544129785529,0.0,-7.781415679369275
+[26Sep2025 23:27:13.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -12.92911013298999,0.0,-8.754095719805491
+[26Sep2025 23:27:13.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -14.365675851110609,0.0,-9.726776196503124
+[26Sep2025 23:27:13.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -15.802241317788685,0.0,-10.699457057983409
+[26Sep2025 23:27:13.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -10.055962560618354,0.0,-6.8087594594639995
+[26Sep2025 23:27:13.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -11.492527609919307,0.0,-7.781440959654219
+[26Sep2025 23:27:13.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -12.92909248669821,0.0,-8.754122723854834
+[26Sep2025 23:27:13.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -14.365657211311373,0.0,-9.726804720912696
+[26Sep2025 23:27:13.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -15.80222180171586,0.0,-10.699486923350833
+[26Sep2025 23:27:15.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -8.619389140098974,0.0,-5.836091159907937
+[26Sep2025 23:27:15.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -10.055953526836674,0.0,-6.80877371497354
+[26Sep2025 23:27:15.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 10.055949602874534,0.0,6.808779518775509
+[26Sep2025 23:27:15.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 10.055949602874534,0.0,6.808779518775509
+[26Sep2025 23:27:15.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 8.61937464519815,0.0,5.836112591035771
+[26Sep2025 23:27:40.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
