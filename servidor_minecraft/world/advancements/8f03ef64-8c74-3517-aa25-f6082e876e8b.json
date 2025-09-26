@@ -7137,9 +7137,27 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+  "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
-      "has_glass": "2025-09-26 08:20:50 +0000"
+      "killed": "2025-09-26 05:34:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-09-26 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-09-26 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-09-26 06:02:24 +0000"
     },
     "done": true
   },
@@ -7149,27 +7167,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-09-26 06:32:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
-      "has_glass": "2025-09-26 08:20:50 +0000"
+      "has_brown_wool": "2025-09-26 06:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-09-26 07:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-09-26 07:22:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-09-26 07:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-09-26 07:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-26 07:22:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-09-26 07:26:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-26 07:26:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-09-26 07:26:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-09-26 07:26:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-09-26 07:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-09-26 07:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-09-26 07:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-09-26 07:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-26 08:08:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-09-26 08:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-09-26 08:18:34 +0000"
     },
     "done": true
   },
@@ -7179,9 +7281,117 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_boots": {
+  "securitycraft:recipes/misc/cyan_lens": {
     "criteria": {
-      "has_item": "2025-09-26 07:26:03 +0000"
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/brown_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/pink_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/magenta_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/green_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/red_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/orange_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/purple_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/light_blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/yellow_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/light_gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/white_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/black_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-26 08:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-26 08:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-26 08:20:50 +0000"
     },
     "done": true
   },
@@ -7197,27 +7407,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_chestplate": {
-    "criteria": {
-      "has_item": "2025-09-26 07:26:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
     },
     "done": true
   },
@@ -7236,18 +7428,6 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/cyan_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
     },
     "done": true
   },
@@ -7281,33 +7461,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-09-26 07:35:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/brown_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/gray_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
     },
     "done": true
   },
@@ -7317,21 +7473,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
-    "criteria": {
-      "has_item": "2025-09-26 07:26:03 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
     },
     "done": true
   },
@@ -7341,21 +7485,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/blue_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-09-26 06:02:24 +0000"
     },
     "done": true
   },
@@ -7368,12 +7500,6 @@
   "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-09-26 07:22:00 +0000"
     },
     "done": true
   },
@@ -7395,21 +7521,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-09-26 07:22:00 +0000"
     },
     "done": true
   },
@@ -7419,39 +7533,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2025-09-26 08:18:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/pink_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-09-26 07:35:31 +0000"
     },
     "done": true
   },
@@ -7467,27 +7557,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-09-26 07:22:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-09-26 06:02:24 +0000"
     },
     "done": true
   },
@@ -7497,27 +7569,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/magenta_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/green_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/red_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
     },
     "done": true
   },
@@ -7539,18 +7593,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/orange_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-09-26 07:22:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
@@ -7566,12 +7608,6 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-09-26 06:32:59 +0000"
     },
     "done": true
   },
@@ -7593,27 +7629,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed": "2025-09-26 05:34:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
-    "criteria": {
-      "has_item": "2025-09-26 07:26:03 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/purple_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
     },
     "done": true
   },
@@ -7641,57 +7659,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-09-26 08:18:34 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/light_blue_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-09-26 07:22:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-09-26 07:38:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/yellow_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
     },
     "done": true
   },
@@ -7710,12 +7680,6 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
     },
     "done": true
   },
@@ -7761,21 +7725,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
-    "criteria": {
-      "has_dragonscales_silver": "2025-09-26 07:26:03 +0000"
     },
     "done": true
   },
@@ -7791,33 +7743,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-09-26 06:02:24 +0000"
     },
     "done": true
   },
@@ -7845,33 +7773,105 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/light_gray_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/white_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/black_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-26 08:20:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-09-26 08:08:00 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-26 08:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-26 08:20:59 +0000"
     },
     "done": true
   },

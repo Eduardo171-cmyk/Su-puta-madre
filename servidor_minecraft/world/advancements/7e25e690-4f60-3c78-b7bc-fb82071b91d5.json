@@ -57,11 +57,14 @@
       "minecraft:dripstone_caves": "2025-08-31 04:19:51 +0000",
       "minecraft:snowy_taiga": "2025-09-24 23:20:48 +0000",
       "minecraft:grove": "2025-08-27 04:14:24 +0000",
+      "minecraft:swamp": "2025-09-26 21:36:05 +0000",
       "minecraft:jagged_peaks": "2025-08-27 04:01:21 +0000",
       "minecraft:cold_ocean": "2025-09-08 02:24:44 +0000",
       "minecraft:forest": "2025-08-26 05:44:10 +0000",
       "minecraft:lush_caves": "2025-09-08 04:23:06 +0000",
+      "minecraft:deep_cold_ocean": "2025-09-26 21:13:27 +0000",
       "minecraft:frozen_ocean": "2025-09-24 23:36:25 +0000",
+      "minecraft:deep_frozen_ocean": "2025-09-26 21:13:57 +0000",
       "minecraft:jungle": "2025-08-26 06:43:44 +0000",
       "minecraft:ocean": "2025-08-26 21:45:44 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-08 02:25:13 +0000",
@@ -1038,6 +1041,7 @@
       "cooked_mutton": "2025-08-26 05:47:41 +0000",
       "cooked_beef": "2025-08-30 04:26:12 +0000",
       "beef": "2025-09-07 04:58:31 +0000",
+      "baked_potato": "2025-09-26 20:56:27 +0000",
       "porkchop": "2025-09-19 22:59:30 +0000",
       "apple": "2025-08-29 06:14:59 +0000",
       "potato": "2025-09-08 03:48:46 +0000",
@@ -9488,6 +9492,132 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-09-26 05:50:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-09-26 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-09-26 21:13:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-26 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-09-26 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-09-26 21:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-26 21:15:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-09-26 21:16:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-26 21:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-09-26 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-09-26 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-26 21:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-26 21:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-09-26 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-09-26 21:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-09-26 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-09-26 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-09-26 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-26 21:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-26 21:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-26 21:13:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-09-26 21:16:09 +0000"
     },
     "done": true
   },
