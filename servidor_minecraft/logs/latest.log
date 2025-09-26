@@ -1101,3 +1101,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Sep2025 03:54:33.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
 [26Sep2025 03:54:35.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
 [26Sep2025 03:54:35.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[26Sep2025 03:55:20.147] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1228b241[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.66.26.144:44707) lost connection: Disconnected
+[26Sep2025 03:56:43.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.66.26.144:58259] logged in with entity id 3183 at (-2097.300000011921, 16.0, 1127.699999988079)
+[26Sep2025 03:56:43.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[26Sep2025 03:56:43.922] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[26Sep2025 03:56:46.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3264ms or 65 ticks behind
+[26Sep2025 03:57:24.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 67
+[26Sep2025 03:57:32.592] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79dcac63[id=<null>,name=Eduardo171,properties={},legacy=false] (/127.217.102.85:59295) lost connection: Timed out
+[26Sep2025 03:57:41.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> THOSE WHO KNOWS
+[26Sep2025 03:58:00.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abi3mael[/127.152.24.121:40813] logged in with entity id 3597 at (-1438.415128077533, -20.0, -260.2435081339595)
+[26Sep2025 03:58:00.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael joined the game
+[26Sep2025 03:58:00.614] [Server thread/INFO] [Jade/]: Syncing config to abi3mael (8f03ef64-8c74-3517-aa25-f6082e876e8b)
+[26Sep2025 03:58:59.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[26Sep2025 03:58:59.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[26Sep2025 03:59:13.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.66.26.144:42029] logged in with entity id 4227 at (-2077.300000011921, 16.0, 1103.7030577682988)
+[26Sep2025 03:59:14.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[26Sep2025 03:59:14.009] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[26Sep2025 03:59:39.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> puta
+[26Sep2025 03:59:40.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> mierda
+[26Sep2025 03:59:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> de mierdisisi
+[26Sep2025 03:59:44.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ma
+[26Sep2025 03:59:46.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> de pig
+[26Sep2025 03:59:48.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ping
+[26Sep2025 04:00:12.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[26Sep2025 04:00:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[26Sep2025 04:00:43.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Sep2025 04:00:43.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Sep2025 04:00:43.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Sep2025 04:00:43.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Sep2025 04:00:44.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Sep2025 04:00:44.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Sep2025 04:00:44.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Sep2025 04:00:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Sep2025 04:00:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Sep2025 04:00:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Sep2025 04:00:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Sep2025 04:00:44.282] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Sep2025 04:00:44.292] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[26Sep2025 04:00:44.296] [Server thread/INFO] [Framework/]: Finished unloading server configs
