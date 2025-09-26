@@ -9502,6 +9502,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-09-26 22:07:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-09-26 21:13:05 +0000"
@@ -9517,6 +9523,12 @@
   "iceandfire:recipes/combat/tide_teal_leggings": {
     "criteria": {
       "has_item": "2025-09-26 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-09-26 22:07:55 +0000"
     },
     "done": true
   },
@@ -9574,9 +9586,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-26 22:07:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-09-26 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-09-26 22:07:55 +0000"
     },
     "done": true
   },
@@ -9625,6 +9649,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-09-26 21:13:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-09-26 22:07:55 +0000"
     },
     "done": true
   },
