@@ -2056,6 +2056,7 @@
       "cooked_beef": "2025-09-20 21:58:37 +0000",
       "beef": "2025-09-20 23:11:01 +0000",
       "apple": "2025-09-19 04:24:45 +0000",
+      "potato": "2025-09-27 05:31:11 +0000",
       "mutton": "2025-09-22 01:44:52 +0000",
       "bread": "2025-09-20 22:18:36 +0000",
       "golden_apple": "2025-09-22 03:28:58 +0000",
@@ -6607,6 +6608,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-09-27 05:31:32 +0000",
       "potato": "2025-09-25 01:33:53 +0000",
       "wheat": "2025-09-25 01:34:09 +0000",
       "carrot": "2025-09-25 01:33:59 +0000"
@@ -8534,6 +8536,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-27 05:31:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_boots": {
     "criteria": {
       "has_item": "2025-09-27 04:56:04 +0000"
@@ -8570,9 +8578,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-09-27 05:31:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {
       "has_item": "2025-09-27 04:55:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-27 05:31:31 +0000"
     },
     "done": true
   },
@@ -8591,6 +8611,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-09-27 05:10:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-09-27 05:31:31 +0000"
     },
     "done": true
   },

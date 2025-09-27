@@ -7323,15 +7323,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+  "spartanweaponry:longbow": {
     "criteria": {
-      "has_slime_ball": "2025-09-27 05:10:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-09-27 05:10:57 +0000"
+      "has_longbow": "2025-09-27 04:56:07 +0000"
     },
     "done": true
   },
@@ -7347,6 +7341,24 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/small_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-09-27 05:02:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-27 05:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-27 05:10:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-09-27 05:10:57 +0000"
@@ -7356,18 +7368,6 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-09-27 05:10:57 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:longbow": {
-    "criteria": {
-      "has_longbow": "2025-09-27 04:56:07 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/small_battery_pack": {
-    "criteria": {
-      "has_copper_plate": "2025-09-27 05:02:28 +0000"
     },
     "done": true
   },

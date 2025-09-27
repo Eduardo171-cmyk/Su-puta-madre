@@ -10157,6 +10157,12 @@
     },
     "done": true
   },
+  "superbwarfare:main/clean_energy": {
+    "criteria": {
+      "0": "2025-09-27 05:29:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_fire_axe": {
     "criteria": {
       "has_item": "2025-09-27 04:59:35 +0000"
