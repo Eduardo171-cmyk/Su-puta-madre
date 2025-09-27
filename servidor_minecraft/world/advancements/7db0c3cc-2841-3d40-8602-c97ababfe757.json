@@ -10097,5 +10097,35 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-09-27 04:34:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-09-27 04:34:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-09-27 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-09-27 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/impregnated_bone_needle": {
+    "criteria": {
+      "coded_trigger": "2025-09-27 04:42:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

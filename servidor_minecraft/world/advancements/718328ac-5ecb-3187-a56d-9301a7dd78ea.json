@@ -7238,12 +7238,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/stolen_magic": {
-    "criteria": {
-      "coded_trigger": "2025-09-27 03:54:46 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2025-09-27 03:47:31 +0000"
@@ -7253,12 +7247,6 @@
   "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
     "criteria": {
       "has_item": "2025-09-27 03:47:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel_weapon": {
-    "criteria": {
-      "sword": "2025-09-27 03:49:54 +0000"
     },
     "done": true
   },
@@ -7292,12 +7280,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/tigers_blessing": {
-    "criteria": {
-      "all_effects": "2025-09-27 03:58:52 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
     "criteria": {
       "has_dragonsteel_ice_ingot": "2025-09-27 03:47:31 +0000"
@@ -7319,6 +7301,24 @@
   "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
     "criteria": {
       "has_item": "2025-09-27 03:47:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-09-27 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-09-27 03:54:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-09-27 03:58:52 +0000"
     },
     "done": true
   },
