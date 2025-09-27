@@ -8326,9 +8326,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-09-27 01:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-09-27 01:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-09-27 01:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-27 01:38:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-09-27 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/glock_18_blueprint": {
+    "criteria": {
+      "has_glock_18_blueprint": "2025-09-27 01:48:16 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/glock_18_smithing": {
+    "criteria": {
+      "has_glock_18_blueprint": "2025-09-27 01:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-09-27 01:48:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-09-27 01:49:33 +0000"
     },
     "done": true
   },
@@ -8344,24 +8392,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-09-27 01:48:25 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/glock_18_blueprint": {
-    "criteria": {
-      "has_glock_18_blueprint": "2025-09-27 01:48:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
     "criteria": {
       "has_item": "2025-09-27 01:51:21 +0000"
@@ -8371,42 +8401,6 @@
   "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
     "criteria": {
       "has_item": "2025-09-27 01:51:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-09-27 01:38:55 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/legendary_material_pack": {
-    "criteria": {
-      "has_netherite_spring": "2025-09-27 03:00:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
-    "criteria": {
-      "rat_upgrade_basic": "2025-09-27 01:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/epic_material_pack": {
-    "criteria": {
-      "has_cemented_carbide_trigger": "2025-09-27 02:43:36 +0000"
     },
     "done": true
   },
@@ -8422,57 +8416,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-09-27 01:38:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-09-27 02:24:01 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-09-27 02:43:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-09-27 01:38:55 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/redstone/vehicle_assembling_table": {
-    "criteria": {
-      "has_smithing_table": "2025-09-27 02:59:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/ambrosia": {
-    "criteria": {
-      "has_item": "2025-09-27 01:41:31 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
     "criteria": {
       "has_item": "2025-09-27 01:51:21 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/sopa_de_macaco": {
-    "criteria": {
-      "sopa_de_macaco": "2025-09-27 02:23:03 +0000"
     },
     "done": true
   },
@@ -8494,6 +8440,72 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
+    "criteria": {
+      "has_item": "2025-09-27 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sopa_de_macaco": {
+    "criteria": {
+      "sopa_de_macaco": "2025-09-27 02:23:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-09-27 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-09-27 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/epic_material_pack": {
+    "criteria": {
+      "has_cemented_carbide_trigger": "2025-09-27 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/redstone/vehicle_assembling_table": {
+    "criteria": {
+      "has_smithing_table": "2025-09-27 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/legendary_material_pack": {
+    "criteria": {
+      "has_netherite_spring": "2025-09-27 03:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
@@ -8506,15 +8518,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
+  "tombstone:adventure/easy_opening": {
     "criteria": {
-      "has_item": "2025-09-27 01:51:21 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/glock_18_smithing": {
-    "criteria": {
-      "has_glock_18_blueprint": "2025-09-27 01:48:16 +0000"
+      "coded_trigger": "2025-09-27 03:29:53 +0000"
     },
     "done": true
   },
