@@ -10169,6 +10169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-27 05:16:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
     "criteria": {
       "has_item": "2025-09-27 04:59:35 +0000"
