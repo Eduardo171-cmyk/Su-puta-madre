@@ -8911,6 +8911,7 @@
       "minecraft:white": "2025-09-08 03:39:41 +0000",
       "minecraft:tabby": "2025-09-08 03:04:58 +0000",
       "minecraft:calico": "2025-09-08 03:39:55 +0000",
+      "minecraft:siamese": "2025-09-27 01:32:02 +0000",
       "minecraft:black": "2025-09-08 03:04:48 +0000"
     },
     "done": false
@@ -10224,15 +10225,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_crystal_quartz_block": {
+  "alexsmobs:alexsmobs/capsid": {
     "criteria": {
-      "has_block_pocket_wall": "2025-09-26 05:33:54 +0000"
+      "capsid": "2025-09-26 05:22:38 +0000"
     },
     "done": true
   },
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "killed_by": "2025-09-26 05:23:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_crystal_quartz_block": {
+    "criteria": {
+      "has_block_pocket_wall": "2025-09-26 05:33:54 +0000"
     },
     "done": true
   },
@@ -10245,12 +10252,6 @@
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-09-26 05:39:50 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2025-09-26 05:22:38 +0000"
     },
     "done": true
   },

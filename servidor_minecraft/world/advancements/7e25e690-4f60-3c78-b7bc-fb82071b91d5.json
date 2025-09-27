@@ -9676,6 +9676,18 @@
     },
     "done": true
   },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-09-27 00:08:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-09-27 00:12:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2025-09-27 00:17:58 +0000"
@@ -9688,12 +9700,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_forge_core": {
-    "criteria": {
-      "core": "2025-09-27 00:12:34 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
     "criteria": {
       "has_item": "2025-09-27 00:17:58 +0000"
@@ -9703,12 +9709,6 @@
   "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
     "criteria": {
       "has_item": "2025-09-27 00:17:58 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:spear": {
-    "criteria": {
-      "has_spear": "2025-09-27 00:08:50 +0000"
     },
     "done": true
   },
@@ -9751,6 +9751,90 @@
   "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
     "criteria": {
       "has_item": "2025-09-27 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-09-27 00:18:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-09-27 00:20:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
+    "criteria": {
+      "has_the_recipe": "2025-09-27 00:30:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-09-27 00:30:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_neck": {
+    "criteria": {
+      "has_the_recipe": "2025-09-27 00:31:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+    "criteria": {
+      "has_the_recipe": "2025-09-27 00:31:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_tail": {
+    "criteria": {
+      "has_the_recipe": "2025-09-27 00:31:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-09-27 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-09-27 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-27 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-09-27 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-09-27 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/bocek_smithing": {
+    "criteria": {
+      "has_bocek_blueprint": "2025-09-27 01:01:41 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/bocek_blueprint": {
+    "criteria": {
+      "has_bocek_blueprint": "2025-09-27 01:01:41 +0000"
     },
     "done": true
   },
