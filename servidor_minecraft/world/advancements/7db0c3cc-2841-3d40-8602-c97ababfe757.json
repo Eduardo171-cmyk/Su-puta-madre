@@ -10055,5 +10055,17 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/glock_18_blueprint": {
+    "criteria": {
+      "has_glock_18_blueprint": "2025-09-27 01:48:58 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/glock_18_smithing": {
+    "criteria": {
+      "has_glock_18_blueprint": "2025-09-27 01:48:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

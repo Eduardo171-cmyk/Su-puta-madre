@@ -8325,5 +8325,53 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-27 01:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-09-27 01:48:25 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/glock_18_blueprint": {
+    "criteria": {
+      "has_glock_18_blueprint": "2025-09-27 01:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-09-27 01:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-09-27 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-27 01:38:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-09-27 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/glock_18_smithing": {
+    "criteria": {
+      "has_glock_18_blueprint": "2025-09-27 01:48:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
