@@ -8356,6 +8356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
     "criteria": {
       "has_item": "2025-09-27 01:51:21 +0000"
@@ -8386,6 +8392,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/misc/epic_material_pack": {
     "criteria": {
       "has_cemented_carbide_trigger": "2025-09-27 02:43:36 +0000"
@@ -8413,6 +8431,12 @@
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-09-27 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
     },
     "done": true
   },
@@ -8467,6 +8491,18 @@
   "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
     "criteria": {
       "has_item": "2025-09-27 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-27 03:04:54 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/artillery_indicator": {
+    "criteria": {
+      "has_spyglass": "2025-09-27 03:05:29 +0000"
     },
     "done": true
   },

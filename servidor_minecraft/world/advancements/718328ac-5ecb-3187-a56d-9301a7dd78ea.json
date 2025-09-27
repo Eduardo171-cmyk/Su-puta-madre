@@ -7232,5 +7232,11 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/decorations/barbed_wire": {
+    "criteria": {
+      "has_iron_bars": "2025-09-27 03:05:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
