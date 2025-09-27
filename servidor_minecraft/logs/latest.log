@@ -1789,3 +1789,60 @@ Reason: Banned by an operator.
 [27Sep2025 03:52:55.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
 [27Sep2025 03:52:55.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
 [27Sep2025 03:54:18.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[27Sep2025 03:54:40.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:53619] logged in with entity id 262357 at (-1499.9136468336396, 64.0, -136.28258573774363)
+[27Sep2025 03:54:40.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[27Sep2025 03:54:40.455] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[27Sep2025 03:54:46.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Stolen Magic]
+[27Sep2025 03:55:11.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> SACAME DE AQUIII
+[27Sep2025 03:55:12.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[27Sep2025 03:55:12.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[27Sep2025 03:56:35.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 03:56:45.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.66.26.144:46473] logged in with entity id 263093 at (-1363.6037011146057, 77.5625, -318.0374885806576)
+[27Sep2025 03:56:45.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[27Sep2025 03:56:45.080] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[27Sep2025 03:57:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> no quiere estar solito mi chavo
+[27Sep2025 03:57:40.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[27Sep2025 03:58:12.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> porq
+[27Sep2025 03:58:21.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved wrongly! 0.28575874282728364
+[27Sep2025 03:58:21.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved wrongly! 1.0881882721080274
+[27Sep2025 03:58:21.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved wrongly! 1.94023585777677
+[27Sep2025 03:58:26.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ok mañana
+[27Sep2025 03:58:37.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ya tienes 3 cabron
+[27Sep2025 03:58:49.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> agarra de mi cofre
+[27Sep2025 03:58:51.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> ahno
+[27Sep2025 03:58:52.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> tp
+[27Sep2025 03:58:52.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has completed the challenge [Eye of the Tiger]
+[27Sep2025 03:58:54.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> veni
+[27Sep2025 03:59:03.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Teleported Eduardo171 to abi3mael]
+[27Sep2025 03:59:22.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 0.3824721437297285,6.540266522641829,8.547379379820427
+[27Sep2025 03:59:22.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! -0.6035325172156263,-8.369142389533494,-14.504851378315436
+[27Sep2025 03:59:22.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! -0.5235272096565495,-7.783685482260424,-12.510745165756418
+[27Sep2025 03:59:22.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! -0.4428173940762008,-7.267312490045569,-10.489500456011797
+[27Sep2025 03:59:22.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! -0.3614862024210197,-6.81187151091207,-8.44431959174949
+[27Sep2025 03:59:27.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 0.4296693972369212,0.006615133354358704,11.11502505975136
+[27Sep2025 03:59:27.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 0.5156168549951872,0.006615133354358704,13.338383352190704
+[27Sep2025 03:59:27.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 0.6015676470510698,0.006615133354358704,15.561828396389728
+[27Sep2025 03:59:28.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 0.42975198683257076,0.0,11.11717387585179
+[27Sep2025 03:59:34.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of abi3mael) moved too quickly! 0.4281646547442506,0.030475257852401683,11.072837570222305
+[27Sep2025 04:00:27.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> hazme tp rexsel
+[27Sep2025 04:00:29.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> a la base
+[27Sep2025 04:00:36.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> esque iba por frascos
+[27Sep2025 04:00:43.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> pero me olvide que no tengo
+[27Sep2025 04:00:46.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> soy invechil
+[27Sep2025 04:00:55.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> tp pecsel
+[27Sep2025 04:01:08.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported abi3mael to rexsel]
+[27Sep2025 04:01:28.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> XDD
+[27Sep2025 04:01:48.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> adios pe
+[27Sep2025 04:02:31.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> adio
+[27Sep2025 04:02:36.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya te vas tu?
+[27Sep2025 04:02:43.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> quien pe
+[27Sep2025 04:02:51.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a quien le dices adios
+[27Sep2025 04:02:54.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es que no escucho
+[27Sep2025 04:02:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> quie nse va
+[27Sep2025 04:03:03.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> ndie
+[27Sep2025 04:03:51.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> tienes cristal
+[27Sep2025 04:03:53.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> nose
+[27Sep2025 04:04:15.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> anexenlo
+[27Sep2025 04:04:18.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> no pe
+[27Sep2025 04:04:26.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> nonono
+[27Sep2025 04:04:29.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> e un mal entendido

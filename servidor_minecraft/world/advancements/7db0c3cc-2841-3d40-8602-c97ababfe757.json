@@ -10067,18 +10067,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_forge_core": {
-    "criteria": {
-      "core": "2025-09-27 03:23:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
-    "criteria": {
-      "has_dragonscale_green": "2025-09-27 03:22:53 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
     "criteria": {
       "has_item": "2025-09-27 03:22:02 +0000"
@@ -10088,6 +10076,18 @@
   "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
     "criteria": {
       "has_item": "2025-09-27 03:22:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
+    "criteria": {
+      "has_dragonscale_green": "2025-09-27 03:22:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-09-27 03:23:59 +0000"
     },
     "done": true
   },
