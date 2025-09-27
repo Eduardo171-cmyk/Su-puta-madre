@@ -7220,15 +7220,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-09-27 01:25:09 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2025-09-27 01:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-27 01:25:09 +0000"
     },
     "done": true
   },

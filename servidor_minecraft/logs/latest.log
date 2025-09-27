@@ -1094,3 +1094,188 @@ Reason: Banned by an operator.
 [27Sep2025 02:01:59.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -4.214703486069084,-2.7680900843619725,11.890605467630394
 [27Sep2025 02:01:59.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -4.079720295569587,-2.09204142964235,10.491361338096794
 [27Sep2025 02:01:59.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -4.022584274337532,-1.4957665161796427,9.062100178232413
+[27Sep2025 02:02:09.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 9.360816184112537,0.0,4.0288699835195985
+[27Sep2025 02:02:09.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 10.93106819339664,0.0,4.710852505377261
+[27Sep2025 02:02:09.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 12.50335095232731,0.0,5.394943709307427
+[27Sep2025 02:02:09.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 9.43725887455139,0.0,4.108246252837944
+[27Sep2025 02:02:09.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 11.015534819851382,0.0,4.798560638769686
+[27Sep2025 02:02:09.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -14.175210582869113,0.0,-6.182433165358816
+[27Sep2025 02:02:09.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -14.175210582869113,0.0,-6.182433165358816
+[27Sep2025 02:02:09.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -14.175210582869113,0.0,-6.182433165358816
+[27Sep2025 02:02:09.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -12.594059398057198,0.0,-5.489124976149924
+[27Sep2025 02:02:09.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -11.012163566310846,0.0,-4.795044533615965
+[27Sep2025 02:02:09.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -9.4296109559682,0.0,-4.1002829636495335
+[27Sep2025 02:02:10.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 9.509628234775391,0.0,4.1834494381882905
+[27Sep2025 02:02:10.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 11.09550055211048,0.0,4.881657653392722
+[27Sep2025 02:02:10.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 12.703008422416133,0.0,5.504729293042601
+[27Sep2025 02:02:11.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 9.829691125478348,0.0,3.390780482851369
+[27Sep2025 02:02:11.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -11.51627827134098,0.0,-3.83113408825011
+[27Sep2025 02:02:11.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -9.86846598432794,0.0,-3.290488319355518
+[27Sep2025 02:02:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Sep2025 02:02:13.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unabn rexsel<--[HERE]
+[27Sep2025 02:02:24.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Sep2025 02:02:24.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unban rexsel<--[HERE]
+[27Sep2025 02:02:25.108] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@40e207c6[id=66f48e46-47e6-339c-ac7f-625ad60c0307,name=rexsel,properties={},legacy=false] (/127.134.174.182:41963): You are banned from this server.
+Reason: Banned by an operator.
+[27Sep2025 02:02:25.109] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40e207c6[id=66f48e46-47e6-339c-ac7f-625ad60c0307,name=rexsel,properties={},legacy=false] (/127.134.174.182:41963) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[27Sep2025 02:02:25.149] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Sep2025 02:02:33.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Sep2025 02:02:33.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desban rexsel<--[HERE]
+[27Sep2025 02:02:42.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Sep2025 02:02:42.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desban rexsel<--[HERE]
+[27Sep2025 02:03:00.705] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4754cbc5[id=<null>,name=rexsel,properties={},legacy=false] (/127.134.174.182:46553) lost connection: Disconnected
+[27Sep2025 02:03:03.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Sep2025 02:03:03.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desban rexsel<--[HERE]
+[27Sep2025 02:03:07.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 5.808017915952632,0.0,-8.456793930444519
+[27Sep2025 02:03:07.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 6.764000124466065,0.0,-9.89139641020347
+[27Sep2025 02:03:07.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -8.568243061293515,0.0,13.00830019529758
+[27Sep2025 02:03:07.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -8.568243061293515,0.0,13.00830019529758
+[27Sep2025 02:03:07.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -7.621986529689593,0.0,11.548654928979204
+[27Sep2025 02:03:07.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -6.682991618511551,0.0,10.083263025989936
+[27Sep2025 02:03:07.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -5.756049169734069,0.0,8.609608201692708
+[27Sep2025 02:03:35.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has completed the challenge [Village Defender]
+[27Sep2025 02:03:35.999] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7bf20b7d[id=66f48e46-47e6-339c-ac7f-625ad60c0307,name=rexsel,properties={},legacy=false] (/127.134.174.182:40195): You are banned from this server.
+Reason: Banned by an operator.
+[27Sep2025 02:03:36.000] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bf20b7d[id=66f48e46-47e6-339c-ac7f-625ad60c0307,name=rexsel,properties={},legacy=false] (/127.134.174.182:40195) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[27Sep2025 02:03:36.052] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Sep2025 02:03:38.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:03:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:03:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Voluntary Exile]
+[27Sep2025 02:04:14.649] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f251035[id=<null>,name=rexsel,properties={},legacy=false] (/127.134.174.182:56287) lost connection: Disconnected
+[27Sep2025 02:04:49.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Unbanned rexsel]
+[27Sep2025 02:04:58.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:05:01.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:05:02.951] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59c41ab[id=<null>,name=rexsel,properties={},legacy=false] (/127.134.174.182:59731) lost connection: Disconnected
+[27Sep2025 02:05:47.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:05:56.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:06:09.747] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e11dc2e[id=<null>,name=rexsel,properties={},legacy=false] (/127.134.174.182:45919) lost connection: Disconnected
+[27Sep2025 02:06:36.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 2 [Black Stained Glass Pane] to Eduardo171]
+[27Sep2025 02:06:45.571] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31855b0b[id=<null>,name=rexsel,properties={},legacy=false] (/127.134.174.182:60683) lost connection: Disconnected
+[27Sep2025 02:06:53.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! 10.07224758225675,0.0,2.3091242903351485
+[27Sep2025 02:06:53.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -13.534297933019843,0.0,-3.113882332328558
+[27Sep2025 02:06:53.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -11.8370364879097,0.0,-2.722813319113584
+[27Sep2025 02:06:53.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -10.138999787957573,0.0,-2.331484614856663
+[27Sep2025 02:07:01.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:42979] logged in with entity id 216056 at (-1385.4994842655383, 82.0, -413.4814071110668)
+[27Sep2025 02:07:01.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[27Sep2025 02:07:01.105] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
+[27Sep2025 02:07:22.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -9.840333801280167,0.0,3.0010226846729893
+[27Sep2025 02:07:22.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -10.526435116079483,0.0,3.2107141448050243
+[27Sep2025 02:07:22.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -11.131576475732345,0.0,3.3956620126414236
+[27Sep2025 02:07:22.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -11.665311154946266,0.0,3.558786032073158
+[27Sep2025 02:07:29.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:07:33.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:07:51.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was blown up by rexsel's lunge mine
+[27Sep2025 02:07:51.660] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[27Sep2025 02:08:10.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:08:17.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -9.17287892460422,0.0,5.013897947064152
+[27Sep2025 02:08:17.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of elikernomamahuev) moved too quickly! -9.881890890490467,0.0,5.759360186766116
+[27Sep2025 02:08:19.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:08:38.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:09:00.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:09:03.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:09:06.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:09:23.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was frozen by Ice Dragon
+[27Sep2025 02:09:23.697] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[27Sep2025 02:10:02.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:10:16.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Timed out
+[27Sep2025 02:10:16.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[27Sep2025 02:10:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:10:28.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:35535] logged in with entity id 219931 at (-1498.7918003849402, 122.25115308358373, -345.8916830655684)
+[27Sep2025 02:10:28.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[27Sep2025 02:10:28.444] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
+[27Sep2025 02:10:35.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:10:58.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Timed out
+[27Sep2025 02:10:58.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[27Sep2025 02:11:49.895] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6eb7c753[id=<null>,name=rexsel,properties={},legacy=false] (/127.134.174.182:44001) lost connection: Disconnected
+[27Sep2025 02:12:23.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:58919] logged in with entity id 221474 at (-1495.7819644846813, 122.25115308358373, -348.148529802749)
+[27Sep2025 02:12:23.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[27Sep2025 02:12:23.144] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
+[27Sep2025 02:12:53.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Timed out
+[27Sep2025 02:12:53.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[27Sep2025 02:12:54.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:12:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:13:14.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:41733] logged in with entity id 221838 at (-1449.8000163644779, 70.0, -330.92779403820924)
+[27Sep2025 02:13:14.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[27Sep2025 02:13:14.390] [Server thread/INFO] [Jade/]: Syncing config to EMILIOSIFUENTES (718328ac-5ecb-3187-a56d-9301a7dd78ea)
+[27Sep2025 02:13:15.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.134.174.182:58225] logged in with entity id 221858 at (-1495.7819644846813, 122.25115308358373, -348.148529802749)
+[27Sep2025 02:13:15.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[27Sep2025 02:13:15.454] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
+[27Sep2025 02:13:35.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:13:40.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> rexsel, que pides a cambio que me regreses mis 30 niveles?
+[27Sep2025 02:13:43.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:13:44.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me fui sin encantar
+[27Sep2025 02:13:44.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:13:48.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:13:58.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pipippipipi
+[27Sep2025 02:14:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:16:17.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:16:18.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:16:20.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:16:22.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:17:30.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:17:33.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:17:36.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:17:37.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:17:51.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:17:54.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:19:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was blown up by Creeper
+[27Sep2025 02:19:25.064] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[27Sep2025 02:20:37.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Gave 1 [Command Block] to rexsel]
+[27Sep2025 02:22:01.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[27Sep2025 02:22:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to EMILIOSIFUENTES]
+[27Sep2025 02:22:32.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya vengo
+[27Sep2025 02:22:59.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to abi3mael]
+[27Sep2025 02:23:03.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael has completed the challenge [Uma Delicia]
+[27Sep2025 02:23:25.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> gracias pe
+[27Sep2025 02:23:54.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abi3mael> tocame la flauta puta
+[27Sep2025 02:24:39.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Applied effect Poison to abi3mael]
+[27Sep2025 02:25:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Applied effect Blindness to abi3mael]
+[27Sep2025 02:26:00.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Applied effect Nausea to abi3mael]
+[27Sep2025 02:26:34.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/223331, l='ServerLevel[world]', x=-2570.73, y=68.27, z=2322.56] died, message: 'Fletcher was slain by Komodo Dragon'
+[27Sep2025 02:27:08.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael fell from a high place
+[27Sep2025 02:27:09.006] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[27Sep2025 02:27:42.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Warped Mosco
+[27Sep2025 02:27:42.053] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
+[27Sep2025 02:27:53.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Warped Mosco
+[27Sep2025 02:27:53.456] [Server thread/INFO] [tombstone/]: The player EMILIOSIFUENTES has successfully been saved
+[27Sep2025 02:28:24.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:28:25.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abi3mael was slain by Warped Mosco
+[27Sep2025 02:28:25.455] [Server thread/INFO] [tombstone/]: The player abi3mael has successfully been saved
+[27Sep2025 02:28:27.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:28:47.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> Hero of village
+[27Sep2025 02:28:57.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Applied effect Hero of the Village to EMILIOSIFUENTES]
+[27Sep2025 02:29:09.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported EMILIOSIFUENTES to rexsel]
+[27Sep2025 02:30:23.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Rigged from the Start]
+[27Sep2025 02:30:23.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set the time to 1000]
+[27Sep2025 02:31:44.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:31:48.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:33:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was blown up by rexsel
+[27Sep2025 02:33:27.433] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
+[27Sep2025 02:33:48.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 1 [Ender Pearl] to Eduardo171]
+[27Sep2025 02:34:40.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me haces tp a ti
+[27Sep2025 02:34:43.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> rexsel
+[27Sep2025 02:34:51.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[27Sep2025 02:35:15.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set 50 experience levels on Eduardo171]
+[27Sep2025 02:35:51.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:35:54.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:36:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ahora dime donde me hago la casa rexsel
+[27Sep2025 02:36:10.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Creative Mode]
+[27Sep2025 02:36:13.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:36:55.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[27Sep2025 02:37:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Gave 64 [Polished Deepslate Stairs] to Eduardo171]
+[27Sep2025 02:37:55.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> e
+[27Sep2025 02:38:00.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:38:06.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no sabia
+[27Sep2025 02:38:11.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:38:12.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was assassinated by EMILIOSIFUENTES
+[27Sep2025 02:38:12.987] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[27Sep2025 02:38:29.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> no toy
+[27Sep2025 02:40:35.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:40:42.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:41:43.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel used elikernomamahuev as paint
+[27Sep2025 02:41:43.722] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[27Sep2025 02:42:16.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Spectator Mode]
+[27Sep2025 02:42:18.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eduardo171: Set own game mode to Survival Mode]
+[27Sep2025 02:42:40.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no salte

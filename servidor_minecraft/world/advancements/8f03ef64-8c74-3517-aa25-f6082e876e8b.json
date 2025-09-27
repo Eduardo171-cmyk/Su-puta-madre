@@ -1816,6 +1816,7 @@
       "minecraft:piglin_brute": "2025-09-26 23:46:20 +0000",
       "minecraft:creeper": "2025-09-21 00:13:39 +0000",
       "minecraft:wither": "2025-09-21 06:01:57 +0000",
+      "minecraft:phantom": "2025-09-27 02:10:55 +0000",
       "minecraft:zombified_piglin": "2025-09-26 23:52:24 +0000",
       "minecraft:witch": "2025-09-25 05:31:51 +0000",
       "minecraft:wither_skeleton": "2025-09-21 05:30:57 +0000",
@@ -8397,6 +8398,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-09-27 02:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-09-27 01:38:55 +0000"
@@ -8412,6 +8419,12 @@
   "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
     "criteria": {
       "has_item": "2025-09-27 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sopa_de_macaco": {
+    "criteria": {
+      "sopa_de_macaco": "2025-09-27 02:23:03 +0000"
     },
     "done": true
   },
