@@ -1969,6 +1969,7 @@
       "minecraft:spider": "2025-08-26 06:24:45 +0000",
       "minecraft:piglin_brute": "2025-08-30 03:39:04 +0000",
       "minecraft:creeper": "2025-08-26 20:57:37 +0000",
+      "minecraft:slime": "2025-09-27 05:10:50 +0000",
       "minecraft:zombified_piglin": "2025-08-30 06:51:43 +0000",
       "minecraft:witch": "2025-08-27 04:27:31 +0000",
       "minecraft:cave_spider": "2025-08-27 05:51:00 +0000",
@@ -7319,6 +7320,54 @@
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
       "all_effects": "2025-09-27 03:58:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-27 05:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-27 05:10:57 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/large_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-09-27 05:02:28 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/medium_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-09-27 05:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-27 05:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-27 05:10:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-09-27 04:56:07 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/small_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-09-27 05:02:28 +0000"
     },
     "done": true
   },
