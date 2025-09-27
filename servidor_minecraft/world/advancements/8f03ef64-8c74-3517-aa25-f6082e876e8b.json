@@ -1810,6 +1810,7 @@
     "criteria": {
       "minecraft:blaze": "2025-09-21 05:30:57 +0000",
       "minecraft:skeleton": "2025-09-19 04:19:38 +0000",
+      "minecraft:ghast": "2025-09-27 00:17:22 +0000",
       "minecraft:magma_cube": "2025-09-26 23:47:19 +0000",
       "minecraft:spider": "2025-09-19 04:29:47 +0000",
       "minecraft:piglin_brute": "2025-09-26 23:46:20 +0000",
@@ -8102,6 +8103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-09-27 00:13:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-09-26 22:47:40 +0000"
@@ -8123,6 +8130,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-09-26 22:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-09-27 00:13:12 +0000"
     },
     "done": true
   },
